@@ -1,0 +1,17 @@
+
+   /*Global Styles*/
+
+   html {
+     font-family:'Roboto', sans-serif;
+   }
+
+   /*Remove Bootstrap default rounded corners*/
+   #temp-input,
+   #temp-scale,
+   .btn{
+     border-radius:0px;
+   }
+
+   #results-area {
+    background: (white);
+   }
